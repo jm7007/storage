@@ -5,7 +5,8 @@ const nextConfig = {
         loader: 'akamai',
         path: '',
     },
-    assetPrefix: '/jm7007/storage/',
+    assetPrefix: '/storage/',
+    basePath: '/storage/'
 };
 
 export default nextConfig;
