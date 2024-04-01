@@ -1,3 +1,4 @@
+import React from 'react'
 // React 컴포넌트를 사용하기 위해 React를 import 합니다.
 
 // About 페이지를 위한 함수형 컴포넌트를 정의합니다.
