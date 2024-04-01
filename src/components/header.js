@@ -1,9 +1,10 @@
+import Link from 'next/link';
 function Header() {
     return (
         <header>
             <nav>
-                <a href="/">홈</a> |
-                <a href="/about">소개</a>
+                <Link href="/">홈</Link> |
+                <Link href="/about">소개</Link>
             </nav>
         </header>
     );
