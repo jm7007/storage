@@ -1,7 +1,7 @@
 import Link from 'next/link';
 function Header() {
     return (
-        <header>
+        <header id="header">
             <nav class="main-nav">
                 <div class="nav-center">
                     <Link href="/" class="nav-link">홈</Link>
