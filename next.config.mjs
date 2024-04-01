@@ -6,7 +6,7 @@ const nextConfig = {
         path: '',
     },
     assetPrefix: '/storage/',
-    basePath: '/storage/'
+    basePath: '/storage'
 };
 
 export default nextConfig;
