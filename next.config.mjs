@@ -4,7 +4,7 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
-    assetPrefix: '/storage/public',
+    assetPrefix: '/storage/',
     basePath: '/storage',
 };
 
