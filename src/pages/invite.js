@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import { useEffect } from 'react';
-import '/public/css/styles.css';
 
 const Invite = () => {
     useEffect(() => {
