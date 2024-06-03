@@ -52,3 +52,39 @@ body{
 .title-body{
 
 }
+.invite-container {
+    max-width: 375px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.invite-title {
+    color: #ff69b4;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.invite-gallery_container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.invite-gallery {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.invite-gallery li {
+    display: none;
+}
+
+.invite-gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
