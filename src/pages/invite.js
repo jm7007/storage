@@ -31,9 +31,8 @@ const Invite = () => {
             </Head>
             <h1 className="invite-title">저희 결혼식에 초대합니다</h1>
             <p>종민 ♡ 유라</p>
-            <img src="https://github.com/jm7007/storage/blob/main/public/images/1391260569177_20240603124445427_2197.jpg" alt="Photo 1" />
-            <img src="/1393678989794_20240603124443975_1866.jpg" alt="Photo 2" />
-            <img src={`/blob/main/public/images/1391260569177_20240603124445427_2197.jpg`} alt="Photo 3" />
+            <img src="images/1391260569177_20240603124445427_2197.jpg" alt="Photo 1" />
+            <img src="images/1393678989794_20240603124443975_1866.jpg" alt="Photo 2" />
 
             <div className="invite-gallery_container">
                 <ul className="invite-gallery">
